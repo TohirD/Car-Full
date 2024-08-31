@@ -1,0 +1,31 @@
+.form{
+    margin: 10px auto 30px;
+}
+
+.form input{
+    padding: 5px 10px;
+    outline: none;
+    display: block;
+    transition: all .5s ease;
+    border: 1px solid transparent;
+    margin: 3px 10px;
+}
+
+.form input:hover{
+    border-color: aqua;
+}
+
+.form button{
+    padding: 5px 10px;
+    border-radius: 5px;
+    border: none;
+    outline: none;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all .5s ease;
+    margin: 5px 10px;
+}
+
+.form button:hover{
+    background-color: antiquewhite;
+}
